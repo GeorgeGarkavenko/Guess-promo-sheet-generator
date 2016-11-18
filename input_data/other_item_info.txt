@@ -1,0 +1,32 @@
+23002G3|Apparel||||Yes||||some note
+37151 32|Apparel||||Yes||||some note
+49040 RG|Apparel||||Yes||||some note
+76074 32|Apparel||||Yes||||some note
+76074 34|Apparel||||Yes||||some note
+84100 32|Apparel||||Yes||||some note
+PRETZEL|Apparel||||Yes||||some note
+Q61A0200000|Apparel||||Yes||||some note
+Q61A06D1T30|Apparel||||Yes||||some note
+Q61B01K2GA1|Apparel||||Yes||||some note
+Q61B01K4ED0|Apparel||||Yes||||some note
+Q61B05W7FG0|Apparel||||Yes||||some note
+Q61D02K39P1|Apparel||||Yes||||some note
+Q61D1000000|Apparel||||Yes||||some note
+Q61K1000000|Apparel||||Yes||||some note
+Q61K1300000|Apparel||||Yes||||some note
+Q61Q0100000|Apparel||||Yes||||some note
+Q61Q0200000|Apparel||||Yes||||some note
+Q61Q0300000|Apparel||||Yes||||some note
+Q61Q0400000|Apparel||||Yes||||some note
+Q6PQ06K2GA0|Apparel||||Yes||||some note
+Q6PQ08K5690|Apparel||||Yes||||some note
+Q6PQ09K5690|Apparel||||Yes||||some note
+Q6PQ10K5690|Apparel||||Yes||||some note
+R53H1500000|Apparel||||Yes||||some note
+R54B0800000|Apparel||||Yes||||some note
+R64A0800000|Apparel||||Yes||||some note
+R64A0900000|Apparel||||Yes||||some note
+R64B0100000|Apparel||||Yes||||some note
+RAISE|Apparel||||Yes||||some note
+RALLY|Apparel||||Yes||||some note
+SPRINKLE|Apparel||||Yes||||some note

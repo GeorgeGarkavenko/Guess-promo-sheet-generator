@@ -1,0 +1,16 @@
+A|5D3DA9128AE34D4BA9250D31D07499F7||Other|Other promo|Promotion %
+S|2016-08-10|2016-08-15|||1|1|1|1|1|1|1
+V|PromotionPct|60|
+V|PriceType|CLR|
+V|PriceCode|Store|
+V|EventType|A|
+V|ReasonCode|B|
+V|Country|USA|
+V|DataType|I|
+V|BasedOn||
+V|OverrideAll|No|
+V|PctOff||
+V|PromoName|Other promo name|
+V|PromoCategory|Sample promo category|
+I||||||LUSA-100|100||2016-08-10|2016-08-15|1|Other|||143.90|USD
+I||||||LUSA-100|100||2016-08-10|2016-08-15|1|Other|||143.90|USD
