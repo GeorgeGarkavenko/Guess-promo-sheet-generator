@@ -120,9 +120,8 @@ class PromoGenerator(object):
         """
         other_data = {}
         with open(other_item_info, READ_FILE_OPTION) as item_info_file:
-            other_data = dict((row.split(INPUT_DELIMITER)[0].strip(),
-                               [value for value in row.split(INPUT_DELIMITER)[1:]])
-                              for row in item_info_file.readlines())
+            lines = [line.rstrip().split(INPUT_DELIMITER) for line in item_info_file]
+            other_data = dict((row[0], row[1:]) for row in lines)
         self.logger.info("Additional data loaded: {0}".format(other_item_info))
         return other_data
 
